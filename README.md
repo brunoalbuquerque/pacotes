@@ -18,7 +18,7 @@ Qualquer coisa entrar em contato por <bruno.albuquerque1990@gmail.com>
 
 dar setwd() na pasta onde vc baixou os pacotes
 
-install.packages('BRugs_0.8-6.zip')
+install.packages("~/bayes/BRugs_0.8-6.zip", repos = NULL, type = "win.binary")
 
 install.packages('coda',dependencies = T)
 
