@@ -18,6 +18,7 @@ Qualquer coisa entrar em contato por <bruno.albuquerque1990@gmail.com>
 
 dar setwd() na pasta onde vc baixou os pacotes
 
-install.packages('BayesSemLagrimas_1.1.tar.gz',dependencies = T) #caso tenha baixo a versao 1.1
 install.packages('BRugs_0.8-6.zip',dependencies = T)
+install.packages('BayesSemLagrimas_1.1.tar.gz',dependencies = T) #caso tenha baixo a versao 1.1
+
 
