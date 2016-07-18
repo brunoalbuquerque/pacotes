@@ -12,7 +12,10 @@ Qualquer coisa entrar em contato por <bruno.albuquerque1990@gmail.com>
 
 #Instalção
 
+
 ## Recomendo ter RStudio e R atualizados.
+
+##Instalar OpenBUGS baixar em <http://www.openbugs.net/w/Downloads>
 
 ##Baixar *BRugs_0.8-6* e *BayesSemLagrimas_x.x* 
 
