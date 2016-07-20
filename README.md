@@ -23,8 +23,6 @@ updateR()
 ##Instalar OpenBUGS baixar em <http://www.openbugs.net/w/Downloads>
 
 install.packages("https://github.com/brunoalbuquerque/pacotes/raw/master/BRugs_0.8-6.zip", repos = NULL, type = "win.binary")
-install.packages("BRugs_0.8-6.zip", repos = NULL, type = "win.binary")
 install.packages(c('coda','ggplot2','data.table','knitr','rmarkdown'),dependencies = T)
-install.packages("BayesSemLagrimas_1.1.tar.gz", repos = NULL, type = "source")
 install.packages("https://github.com/brunoalbuquerque/pacotes/raw/master/BayesSemLagrimas_1.2.zip", repos = NULL, type = "win.binary")
 
