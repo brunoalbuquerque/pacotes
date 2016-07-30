@@ -25,7 +25,7 @@ updateR()
 
 install.packages("https://github.com/brunoalbuquerque/pacotes/raw/master/BRugs_0.8-6.zip", repos = NULL, type = "win.binary")
 
-install.packages(c('coda','ggplot2','data.table','knitr','rmarkdown'),dependencies = T)
+install.packages(c('coda','ggplot2','data.table','knitr','MASS','rmarkdown'),dependencies = T)
 
-install.packages("https://github.com/brunoalbuquerque/pacotes/raw/master/BayesSemLagrimas_1.8.zip", repos = NULL, type = "win.binary")
+install.packages("https://github.com/brunoalbuquerque/pacotes/raw/master/BayesSemLagrimas_1.9.zip", repos = NULL, type = "win.binary")
 
